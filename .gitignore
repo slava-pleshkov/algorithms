@@ -1,3 +1,7 @@
 .vscode
 .idea
-a.out
+*.o
+*.out
+*.a
+.DS_Store
+._.DS_Store

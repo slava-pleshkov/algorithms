@@ -43,6 +43,4 @@ int main()
 	cout << "Sorted array: \n"; 
 	printArray(arr, n); 
 	return 0; 
-} 
-
-// This is code is contributed by rathbhupendra 
+}
