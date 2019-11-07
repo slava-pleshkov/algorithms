@@ -4,8 +4,13 @@
 </p>
 <p align="center">🎛I study algorithms</p>
 
-## Installation
-1. Clone the repo and `cd` into it
+## Algorithms
+1. Bubble Sort
+1. Insertion Sort
+1. Selection Sort
+1. Binary Search
+1. Quick Sort
+1. Merge Sort
 
 ## License
 
